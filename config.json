@@ -1,0 +1,6 @@
+{
+  "db_host" : "localhost",
+  "db_name" : "monitoring_logs",
+  "db_username" : "ashish",
+  "db_password" : "<db-pass>"
+}
